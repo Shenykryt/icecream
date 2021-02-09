@@ -1,0 +1,32 @@
+header {
+    margin:20px;
+    height::1000px;
+}
+
+body {
+    background: #157D04;
+}
+
+
+img {
+    height:350px;
+    width:550px;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    background: #259709;
+}
+
+a {
+    text-decoration:none;
+    margin:20px;
+    border:1px solid black;
+    padding:5px;
+    border-radius: 5px;
+    color:black;
+}
+
